@@ -5,4 +5,4 @@
 [submodule "ggoutbreak"]
 	path = ggoutbreak
 	url = https://github.com/ai4ci/ggoutbreak
-	branch = *release
+	branch = 0.3.0
