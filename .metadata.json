@@ -6,5 +6,9 @@
   {
     "package": "interfacer",
     "releasetag": true
+  },
+  {
+    "package": "huxtableone",
+    "releasetag": true
   }
 ]

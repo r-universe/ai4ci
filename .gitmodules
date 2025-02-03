@@ -6,6 +6,10 @@
 	path = ggoutbreak
 	url = https://github.com/ai4ci/ggoutbreak
 	branch = 0.3.1
+[submodule "huxtableone"]
+	path = huxtableone
+	url = https://github.com/ai4ci/huxtableone
+	branch = *release
 [submodule "interfacer"]
 	path = interfacer
 	url = https://github.com/ai4ci/interfacer
