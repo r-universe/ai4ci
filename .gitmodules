@@ -9,7 +9,7 @@
 [submodule "huxtableone"]
 	path = huxtableone
 	url = https://github.com/ai4ci/huxtableone
-	branch = *release
+	branch = 0.4.4
 [submodule "interfacer"]
 	path = interfacer
 	url = https://github.com/ai4ci/interfacer
