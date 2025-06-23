@@ -13,4 +13,4 @@
 [submodule "interfacer"]
 	path = interfacer
 	url = https://github.com/ai4ci/interfacer
-	branch = 0.3.3
+	branch = 0.3.4
