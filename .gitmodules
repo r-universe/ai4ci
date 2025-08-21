@@ -5,7 +5,7 @@
 [submodule "ggoutbreak"]
 	path = ggoutbreak
 	url = https://github.com/ai4ci/ggoutbreak
-	branch = 0.4.7
+	branch = 0.5.0
 [submodule "huxtableone"]
 	path = huxtableone
 	url = https://github.com/ai4ci/huxtableone
