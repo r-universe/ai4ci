@@ -1,8 +1,20 @@
 [
   {
+    "package": "ggoutbreak",
+    "url": "https://github.com/ai4ci/ggoutbreak",
+    "via": ["tidyabc"],
+    "from": "tidyabc"
+  },
+  {
     "package": "interfacer",
     "url": "https://github.com/ai4ci/interfacer",
     "via": ["ggoutbreak"],
     "from": "ggoutbreak"
+  },
+  {
+    "package": "interfacer",
+    "url": "https://github.com/ai4ci/interfacer",
+    "via": ["tidyabc", "ggoutbreak"],
+    "from": "tidyabc"
   }
 ]
