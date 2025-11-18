@@ -10,5 +10,9 @@
   {
     "package": "huxtableone",
     "releasetag": true
+  },
+  {
+    "package": "tidyabc",
+    "releasetag": true
   }
 ]

@@ -14,3 +14,7 @@
 	path = interfacer
 	url = https://github.com/ai4ci/interfacer
 	branch = 0.3.7
+[submodule "tidyabc"]
+	path = tidyabc
+	url = https://github.com/ai4ci/tidyabc
+	branch = *release
