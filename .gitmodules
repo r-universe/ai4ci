@@ -17,4 +17,4 @@
 [submodule "tidyabc"]
 	path = tidyabc
 	url = https://github.com/ai4ci/tidyabc
-	branch = 0.0.0.9003
+	branch = 0.0.1
