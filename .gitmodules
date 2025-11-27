@@ -18,3 +18,7 @@
 	path = tidyabc
 	url = https://github.com/ai4ci/tidyabc
 	branch = 0.0.1
+[submodule "ukc19"]
+	path = ukc19
+	url = https://github.com/ai4ci/ukc19
+	branch = *release

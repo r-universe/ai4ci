@@ -14,5 +14,9 @@
   {
     "package": "tidyabc",
     "releasetag": true
+  },
+  {
+    "package": "ukc19",
+    "releasetag": true
   }
 ]
