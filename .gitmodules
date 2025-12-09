@@ -21,4 +21,4 @@
 [submodule "ukc19"]
 	path = ukc19
 	url = https://github.com/ai4ci/ukc19
-	branch = 0.0.2
+	branch = 0.0.3
