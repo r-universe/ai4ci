@@ -18,5 +18,9 @@
   {
     "package": "ukc19",
     "releasetag": true
+  },
+  {
+    "package": "pitw",
+    "releasetag": true
   }
 ]

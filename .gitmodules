@@ -14,6 +14,10 @@
 	path = interfacer
 	url = https://github.com/ai4ci/interfacer
 	branch = 0.4.2
+[submodule "pitw"]
+	path = pitw
+	url = https://github.com/ai4ci/pit-wasserstein
+	branch = *release
 [submodule "tidyabc"]
 	path = tidyabc
 	url = https://github.com/ai4ci/tidyabc
